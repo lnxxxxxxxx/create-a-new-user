@@ -1,0 +1,7 @@
+C:\Users\sick_\source\repos\TP3LunaLeandroMatias\TP3LunaLeandroMatias\obj\Debug\TP3LunaLeandroMatias.csproj.AssemblyReference.cache
+C:\Users\sick_\source\repos\TP3LunaLeandroMatias\TP3LunaLeandroMatias\obj\Debug\TP3LunaLeandroMatias.csproj.CoreCompileInputs.cache
+C:\Users\sick_\source\repos\TP3LunaLeandroMatias\TP3LunaLeandroMatias\bin\Debug\TP3LunaLeandroMatias.exe.config
+C:\Users\sick_\source\repos\TP3LunaLeandroMatias\TP3LunaLeandroMatias\bin\Debug\TP3LunaLeandroMatias.exe
+C:\Users\sick_\source\repos\TP3LunaLeandroMatias\TP3LunaLeandroMatias\bin\Debug\TP3LunaLeandroMatias.pdb
+C:\Users\sick_\source\repos\TP3LunaLeandroMatias\TP3LunaLeandroMatias\obj\Debug\TP3LunaLeandroMatias.exe
+C:\Users\sick_\source\repos\TP3LunaLeandroMatias\TP3LunaLeandroMatias\obj\Debug\TP3LunaLeandroMatias.pdb
